@@ -1,0 +1,40 @@
+
+.header span{
+	display:block;
+}
+.header{
+	font-size: 20px;
+	line-height: 1.5;
+	margin: 60px auto;
+}
+.FormHeader{
+	font-size: 20px;
+	font-weight: 900; 	
+	margin-bottom: 20px;
+}
+.form{
+	border:5px solid #4721bb;
+	padding: 35px 20px;
+}
+
+.form input{
+	margin-bottom: 12px;
+
+}
+.form-btn{	
+	margin:10px auto;
+	background-color: #4721bb;
+}
+.section{
+	padding: 30px 0px ;
+}
+.sectionHeader{
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 20px;
+
+}
+.feachure{
+	margin: 60px auto;
+}
+.feachure p {margin-top:20px;}
